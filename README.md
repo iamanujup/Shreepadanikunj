@@ -17,7 +17,7 @@ Create quizzes, run them in **groups or private**, manage quizzes, export quizze
 ## demo bot 
 *Test bot on Telegram*  
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/freepyquizibot)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Quizindiarhbot)
 
 ---
 
