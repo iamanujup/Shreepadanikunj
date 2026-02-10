@@ -51,15 +51,15 @@ from telegram.ext import (
 from telegram.constants import ParseMode
 
 # --- BOT CONFIGURATION ---
-BOT_TOKEN = os.environ.get("8320109080:AAHwJdor_ZEIdHxpRzWXvySp985VndTTm4o")
+BOT_TOKEN = os.environ.get("8217792611:AAEjPIxHMjIHa1URt4xRmZ3ZlXlyEyGMH_E")
 OWNER_ID = 7491163677
 POLL_LOG_CHANNEL_ID = -1003430673299
 DB_PATH = "quizzes.db"
 DB_NAME = "quizbot"
-MONGO_URI = os.environ.get("mon") # 
+MONGO_URI = os.environ.get("mongodb+srv://iamanujup79_db_user:iamanujup79_db_user@cluster0.yscdiem.mongodb.net/?appName=Cluster0") # 
 FORCESUB_CHANNEL_ID = -1002082020389
 SESSION_DIR = "sessions"
-FORCESUB_CHANNEL_LINK = "https://t.me/anchalm2000" 
+FORCESUB_CHANNEL_LINK = "https://t.me/shreepadamnikunj" 
 os.makedirs(SESSION_DIR, exist_ok=True)
 
 UB_API_ID = apiid 
