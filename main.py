@@ -56,7 +56,7 @@ OWNER_ID = 7491163677
 POLL_LOG_CHANNEL_ID = -1003430673299
 DB_PATH = "quizzes.db"
 DB_NAME = "quizbot"
-MONGO_URI = os.environ.get("mongodb+srv://iamanujup79_db_user:iamanujup79_db_user@cluster0.yscdiem.mongodb.net/?appName=Cluster0") # 
+MONGO_URI = os.environ.get("mon") # 
 FORCESUB_CHANNEL_ID = -1002082020389
 SESSION_DIR = "sessions"
 FORCESUB_CHANNEL_LINK = "https://t.me/shreepadamnikunj" 
