@@ -59,7 +59,7 @@ DB_NAME = "quizbot"
 MONGO_URI = os.environ.get("mon") # 
 FORCESUB_CHANNEL_ID = -1002082020389
 SESSION_DIR = "sessions"
-FORCESUB_CHANNEL_LINK = "https://t.me/shreepadamnikunj" 
+FORCESUB_CHANNEL_LINK = "https://t.me/studyhelppdf" 
 os.makedirs(SESSION_DIR, exist_ok=True)
 
 UB_API_ID =5074166
