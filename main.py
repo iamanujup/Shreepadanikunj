@@ -53,11 +53,11 @@ from telegram.constants import ParseMode
 # --- BOT CONFIGURATION ---
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 OWNER_ID = 8572815322
-POLL_LOG_CHANNEL_ID = -1003430673299
+POLL_LOG_CHANNEL_ID = -1003496956566
 DB_PATH = "quizzes.db"
 DB_NAME = "quizbot"
 MONGO_URI = os.environ.get("mon") # 
-FORCESUB_CHANNEL_ID = 3496956566
+FORCESUB_CHANNEL_ID = -1003496956566
 SESSION_DIR = "sessions"
 FORCESUB_CHANNEL_LINK = "https://t.me/studyhelppdf" 
 os.makedirs(SESSION_DIR, exist_ok=True)
