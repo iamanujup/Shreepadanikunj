@@ -1,3 +1,3 @@
 def app(environ, start_response):
     start_response('200 OK', [('Content-Type', 'text/plain')])
-    return [b' Quizbot repo made with love by @andr0idpie9']
+    return [b' Quizbot repo made with love by @shoonya_jeevan']
