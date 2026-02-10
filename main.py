@@ -62,8 +62,8 @@ SESSION_DIR = "sessions"
 FORCESUB_CHANNEL_LINK = "https://t.me/shreepadamnikunj" 
 os.makedirs(SESSION_DIR, exist_ok=True)
 
-UB_API_ID = apiid 
-UB_API_HASH = "apihash"
+UB_API_ID =5074166
+UB_API_HASH = "3cb93a9a9345592f5e6a42020687cdbe"
 
 # List of session strings from environment variables
 USERBOT_SESSIONS = [
