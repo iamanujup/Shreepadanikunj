@@ -48,7 +48,7 @@ async def edit_command_handler(update: Update, context: ContextTypes.DEFAULT_TYP
     ])
     
     await update.message.reply_text(
-    f"✏️ Editing Quiz: *{escape_markdown(q_doc['title'], 2)}* \(`{quiz_id}`\)\n\n" # <-- Note the \ before ( and )
+    f"✏️ Editing Quiz: *{escape_markdown(q_doc['title'], 2)}* (`{quiz_id}`)\n\n" # <-- Note the \ before ( and )
     "Select what you want to edit:",
     reply_markup=keyboard,
     parse_mode=ParseMode.MARKDOWN_V2
