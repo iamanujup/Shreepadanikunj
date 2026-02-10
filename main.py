@@ -52,12 +52,12 @@ from telegram.constants import ParseMode
 
 # --- BOT CONFIGURATION ---
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
-OWNER_ID = 7491163677
+OWNER_ID = 8572815322
 POLL_LOG_CHANNEL_ID = -1003430673299
 DB_PATH = "quizzes.db"
 DB_NAME = "quizbot"
 MONGO_URI = os.environ.get("mon") # 
-FORCESUB_CHANNEL_ID = -1002082020389
+FORCESUB_CHANNEL_ID = 3496956566
 SESSION_DIR = "sessions"
 FORCESUB_CHANNEL_LINK = "https://t.me/studyhelppdf" 
 os.makedirs(SESSION_DIR, exist_ok=True)
@@ -80,7 +80,7 @@ USERBOT_SESSIONS = [s for s in USERBOT_SESSIONS if s]
 active_userbots = []
  
 # +++ ADD THESE LINES +++
-
+8572815322
 POLL_QUESTION_MAX_LENGTH = 250
 PLACEHOLDER_QUESTION = "⬆️ LOOK AT THE MESSAGE ABOVE FOR THE QUESTION ⬆️"
 
