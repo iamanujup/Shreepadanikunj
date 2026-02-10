@@ -51,7 +51,7 @@ from telegram.ext import (
 from telegram.constants import ParseMode
 
 # --- BOT CONFIGURATION ---
-BOT_TOKEN = os.environ.get("BOT_TOKEN)
+BOT_TOKEN = os.environ.get("BOT_TOKEN")
 OWNER_ID = 7491163677
 POLL_LOG_CHANNEL_ID = -1003430673299
 DB_PATH = "quizzes.db"
